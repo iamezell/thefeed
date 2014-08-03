@@ -1,0 +1,11 @@
+{
+	"name":"theFeed",
+	"version":"0.0.1",
+	"private":true,
+	"devDependencies":{
+		"jquery":"2.1.1",
+		"backbone":"~1.1.2",
+		"underscore":"~1.5.2",
+		"requirejs":"~2.1.11"
+	}
+}
